@@ -11,7 +11,19 @@ reference about Federated-Clustering
 
 [2022_TFS] Federated FCM: Clustering under privacy requirements. IEEE Transactions on Fuzzy Systems, [paper](https://ieeexplore.ieee.org/document/9516933).
 
-[2023_ICLR] MACHINE UNLEARNING OF FEDERATED CLUSTERS. in ICLR, [paper](https://openreview.net/forum?id=VzwfoFyYDga).
+[2023_ICLR] MACHINE UNLEARNING OF FEDERATED CLUSTERS. in ICLR, [paper](https://openreview.net/forum?id=VzwfoFyYDga),[code](https://github.com/thupchnsky/mufc)
+
+[2022_UAI] Federated online clustering of bandits. in Uncertainty in Artificial Intelligence(UAI),[paper](https://proceedings.mlr.press/v180/liu22a.html),[code](https://github.com/ZhaoHaoRu/Federated-Clustering-of-Bandits)
+
+[2024_ACM] Federated momentum contrastive clustering. ACM Transactions on Intelligent Systems and Technology, [paper](https://dl.acm.org/doi/abs/10.1145/3653981).
+
+[2024_IEEEIT]  Differentially private federated clustering over non-IID data, IEEE Internet of Things Journal,  [paper](https://ieeexplore.ieee.org/abstract/document/10242375).
+
+[2022_TSG] Federated Clustering for Electricity Consumption Pattern Extraction. IEEE Transactions on Smart Grid, [paper](https://ieeexplore.ieee.org/document/9693930).
+
+[2022]  Federated clustering with GAN-based data synthesis, arxiv, [paper](https://arxiv.org/abs/2210.16524).
+
+[2024_TII] One-Shot Federated Clustering Based on Stable Distance Relationships. IEEE Transactions on Industrial Informatics, [paper](https://ieeexplore.ieee.org/document/10634982),[code](https://github.com/mlyizhang/nnfc)
 
 ##Federated subspace Clustering
 
@@ -19,7 +31,7 @@ reference about Federated-Clustering
 
 [2025] Federated Deep Subspace Clustering. arxiv [paper](https://arxiv.org/abs/2501.00230).
 
-[2022_NeurIPS] Federated Spectral Clustering via Secure Similarity Reconstruction. in NeurIPS, [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b6cd2650926d332c86a84c48529cc421-Abstract-Conference.html).
+[2024_NeurIPS] Federated Spectral Clustering via Secure Similarity Reconstruction. in NeurIPS, [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b6cd2650926d332c86a84c48529cc421-Abstract-Conference.html).
 
 ##Federated multi-view Clustering
 

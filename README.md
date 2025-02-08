@@ -1,7 +1,7 @@
-#Federated-Clustering
+# *Federated-Clustering*
 reference about Federated-Clustering
 
-##Federated Clustering
+## *Federated Clustering*
 
 [2022_ICML] Heterogeneity for the Win: One-Shot Federated Clustering. in International Conference on Machine Learning, [paper](https://proceedings.mlr.press/v139/dennis21a.html),[code](https://github.com/metastableB/kfed/)
 
@@ -25,7 +25,7 @@ reference about Federated-Clustering
 
 [2024_TII] One-Shot Federated Clustering Based on Stable Distance Relationships. IEEE Transactions on Industrial Informatics, [paper](https://ieeexplore.ieee.org/document/10634982),[code](https://github.com/mlyizhang/nnfc)
 
-##Federated subspace Clustering
+## *Federated subspace Clustering*
 
 [2023_ICDE] Fed-SC: One-Shot Federated Subspace Clustering over High-Dimensional Data. in ICDE, [paper](https://ieeexplore.ieee.org/document/10184550).
 
@@ -33,7 +33,7 @@ reference about Federated-Clustering
 
 [2024_NeurIPS] Federated Spectral Clustering via Secure Similarity Reconstruction. in NeurIPS, [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b6cd2650926d332c86a84c48529cc421-Abstract-Conference.html).
 
-##Federated multi-view Clustering
+## *Federated multi-view Clustering*
 
 [2024_TPAMI] Federated Multi-View K-Means Clustering. TPAMI, [paper](https://ieeexplore.ieee.org/document/10810504).
 

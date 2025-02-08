@@ -5,7 +5,7 @@ reference about Federated-Clustering
 
 [2022_ICML] Heterogeneity for the Win: One-Shot Federated Clustering. in International Conference on Machine Learning, [paper](https://proceedings.mlr.press/v139/dennis21a.html),[code](https://github.com/metastableB/kfed/)
 
-[2022_TSP] Federated Matrix Factorization: Algorithm Design and Application to Data Clustering. IEEE Transactions on Signal Processing, [paper](https://ieeexplore.ieee.org/document/9713943)
+[2022_TSP] Federated Matrix Factorization: Algorithm Design and Application to Data Clustering. IEEE Transactions on Signal Processing, [paper](https://ieeexplore.ieee.org/document/9713943),[code](https://github.com/metastableB/kfed/)
 
 ##Federated subspace Clustering
 
